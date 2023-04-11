@@ -3,7 +3,7 @@ nav:
     - index.md
     - ❤️ 我和朋友们！: person/about.md
     - 📆 最近更新: recent.md
-    # - 🌈 颜色主题 & 夜间模式: person/theme.md
+    - 🌈 颜色主题 & 夜间模式: person/theme.md
   - AI_theory:
     - AI_theory/index.md
     - 🍉C++ 学习记录:
