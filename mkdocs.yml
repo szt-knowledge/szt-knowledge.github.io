@@ -42,7 +42,7 @@ edit_uri: ""
 markdown_extensions:
   - toc:
       permalink: true # link for each title
-      slugify: !!python/name:pymdownx.slugs.uslugify # enable Unicode link
+      # slugify: !!python/name:pymdownx.slugs.uslugify # enable Unicode link
   - admonition
   - abbr
   - attr_list
