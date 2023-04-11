@@ -20,4 +20,4 @@ jobs:
       - run: pip install rich
       # - run: git clone https://github.com/smd1121/mkdocs-toolchain.git && cd mkdocs-toolchain/mkdocs-statistics-plugin && pip install -e .
       - run: pip install mkdocs-statistics-plugin
-      #- run: mkdocs gh-deploy 
+      - run: mkdocs gh-deploy 
