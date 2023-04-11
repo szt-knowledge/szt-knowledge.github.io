@@ -10,6 +10,8 @@ nav:
       - AI_theory/ML_theory/index.md
       - ML theory: AI_theory/ML_theory/chap_1.md
 
+site_name: 咸鱼暄的代码空间
+site_url: https://xuan-insr.github.io/
 
 
 theme:
