@@ -2,7 +2,7 @@ name: autoBuild
 on:
   push:
     branches:
-      #- master
+      - master
       - main
 jobs:
   deploy:
