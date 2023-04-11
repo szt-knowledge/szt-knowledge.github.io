@@ -9,9 +9,7 @@ nav:
     - 🍉C++ 学习记录:
       - AI_theory/ML_theory/index.md
       - ML theory: AI_theory/ML_theory/chap_1.md
-  
-site_name: AI plus Community
-site_url: https://zitao-shuai.github.io/AI_plus.github.io/
+
 
 
 theme:
